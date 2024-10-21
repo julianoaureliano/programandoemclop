@@ -2,6 +2,12 @@
 // executa o arquivo : ./nomedoarquivo
 // executa o arquivo com entradas : ./nomedoarquivo < entrada.txt
 // executa o arquivo com entradas e saida: ./nomedoarquivo < entrada > saida
+// (Git) git status = para ver as atualizaçoes e mudancas dos arquivos
+// *salve o arquivo antes*(Git) git add . = para carregar todos os arquivos para o commit
+// (Git) git commit -m "colocarmensagem" = carregar os arquivos para enviar com a mensagem
+// (Git) git push origin main = enviar os arquivos atualizados
+// (Git) git fetch = "sincroniza" os repositorios, para saber se tem alguma atualização no repositorio
+// (Git) git pull origin main = para baixar/atualizar os arquivos locais com o do repositorio do github
 
 #include <stdio.h>
 #include <stdlib.h>
