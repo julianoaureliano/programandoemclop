@@ -9,6 +9,7 @@
 // (Git) git fetch = "sincroniza" os repositorios, para saber se tem alguma atualização no repositorio
 // (Git) git pull origin main = para baixar/atualizar os arquivos locais com o do repositorio do github
 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
