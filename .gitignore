@@ -3,7 +3,7 @@
 node_modules/
 venv/
 .env
-
+*.txt
 # Ignorar arquivos de log
 *.log
 
